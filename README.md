@@ -12,4 +12,4 @@ This includes;
     Unoredered and oredered lists.
     Creating links.
     Adding images.
-    And using Github.
+    And using Git & Github
