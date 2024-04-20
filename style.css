@@ -1,0 +1,33 @@
+body {background: lightgoldenrodyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title,
+.description{text-align: center;
+    color: darkred;
+    font-size: 36px;
+    text-transform: uppercase;
+    background-color: goldenrod;
+}
+
+#heading {font-size: 24px;
+}
+
+img {height: 200;
+    width: auto;
+
+}
+
+p {text-align: center;
+     
+}
+
+.ingredients,
+.steps {color: darkred;
+            text-transform: uppercase;
+            text-decoration: underline;
+    }
+
+.sub-ing {font-style: italic;
+        
+          }
